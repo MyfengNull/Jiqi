@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">小灵助手</string>
+    <string name="send">发送</string>
+    <string-array name="welcome_tips" >
+        <item >主人,我是小灵!</item>
+        <item >主人,你好!</item>
+        <item >主人,我想你!</item>
+        <item >主人,欢迎回来!</item>
+        <item >主人,为你服务!</item>
+        <item >白天么么哒!</item>
+        <item >晚上啪啪啪!</item>
+    </string-array>
+</resources>
